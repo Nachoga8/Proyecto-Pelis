@@ -4,8 +4,11 @@
    text-rendering: geometricPrecision;
     color:greenyellow;
     text-align:center
-    
-   
+  
+ }
+
+ .movieCard:hover{
+  opacity: 0.20;
  }
 
 

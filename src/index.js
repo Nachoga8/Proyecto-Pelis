@@ -3,14 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import {App} from './App';
 
-function Saludo ({titulo}){
-  return( 
-  <div>
-<h1>{App}</h1>
-  </div>
-  )
-}
-
 
 
 
